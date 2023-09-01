@@ -6,3 +6,4 @@ soma_k<-function(x, k) x+k
 soma_k(x=10, k=2)
 
 
+soma_k(x=1:10, k=1:20)
